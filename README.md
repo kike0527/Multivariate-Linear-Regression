@@ -4,6 +4,7 @@ Estimating the sale prices of houses is one of the basic projects, by realizing 
 
 * Ordinal Least Square (OLS).
 * Rigde Regression Algorithm.
+* Lasso Regression Model.
 * Bayesian Regression Algorithm.
 * Elastic Net Regression Algorithm.
 
